@@ -21,6 +21,7 @@ EmotionAI is a deep learning project that detects the emotion in a sentence. It 
 - FastAPI and Uvicorn
 - NumPy, Pandas
 - Hugging Face `datasets`
+- jupyter notebook
 
 ## Project Structure
 ```
