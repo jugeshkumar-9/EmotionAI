@@ -15,6 +15,7 @@ EmotionAI is a deep learning project that detects the emotion in a sentence. It 
 
 ## Tech Stack
 - Python
+- HTML,CSS JavaScript
 - TensorFlow / Keras
 - FastAPI and Uvicorn
 - NumPy, Pandas
