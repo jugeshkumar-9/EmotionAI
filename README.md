@@ -1,3 +1,7 @@
+emotionai-2g5o.onrender.com
+
+
+
 # EmotionAI: Emotion Prediction from Text
 
 EmotionAI is a deep learning project that detects the emotion in a sentence. It uses a **Bidirectional GRU (BiGRU)** model built with TensorFlow/Keras and provides a **FastAPI** backend for real-time predictions.
